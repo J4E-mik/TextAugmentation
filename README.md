@@ -48,7 +48,7 @@
 ### 설치 방법
 1. 이 저장소를 클론합니다.  
 ```bash
-git clone https://github.com/seyun0714/HW5.git
+git clone https://github.com/J4E-mik/TextAugmentation.git
 cd HW5
 ```
 
